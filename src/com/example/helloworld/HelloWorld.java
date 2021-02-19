@@ -5,6 +5,7 @@ public class HelloWorld {
         int count = 5;
         System.out.println(count);
         int y = 5;
+        System.out.println("Multiplication");
     }
 
     public static int multiply(int num1, int num2)
@@ -21,5 +22,10 @@ public class HelloWorld {
     public static int substract(int num1, int num2)
     {
         return num1 - num2;
+    }
+
+    public static void printHello()
+    {
+        System.out.println("Hello");
     }
 }
