@@ -7,6 +7,7 @@ public class HelloWorld {
         int y = 5;
         System.out.println("Multiplication");
         System.out.println("Summation");
+        System.out.println("Substraction");
     }
 
     public static int multiply(int num1, int num2)
