@@ -22,4 +22,9 @@ public class HelloWorld {
     {
         return num1 - num2;
     }
+
+    public static void printHello()
+    {
+        System.out.println("Hello");
+    }
 }
