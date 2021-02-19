@@ -4,11 +4,12 @@ public class HelloWorld {
     public static void main(String[] args) {
         int count = 5;
         System.out.println(count);
+        int y = 5;
     }
 
     public static int multiply(int num1, int num2)
     {
         //TODO
-        return 0;
+        return num1*num2;
     }
 }
