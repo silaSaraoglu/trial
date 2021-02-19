@@ -5,6 +5,7 @@ public class HelloWorld {
         int count = 5;
         System.out.println(count);
         int y = 5;
+        System.out.println("Multiplication");
     }
 
     public static int multiply(int num1, int num2)
